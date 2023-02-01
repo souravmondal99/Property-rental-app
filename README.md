@@ -1,6 +1,8 @@
 # Property-rental-app
 A SFDC Property management application through which Tenants can view, register, book available Properties.
 
+![App Screenshot](https://github.com/souravmondal99/Property-rental-app/blob/main/HomePage_MagicBricks.png)
+
 # Features :
 
 - Register and maintain property records.<br>
